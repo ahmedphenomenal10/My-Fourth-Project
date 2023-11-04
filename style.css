@@ -790,7 +790,7 @@ a {text-decoration: none;}
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
     position: relative;
-    background-image: url("../Template 3/Contents/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("Contents/wallpaperflare.com_wallpaper.jpg");
     background-size: cover;
     min-height: 300px;
 }
@@ -867,7 +867,7 @@ a {text-decoration: none;}
     flex-wrap: wrap;
 }
 .discount .image{
-    background-image: url("../Template 3/Contents/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("Contents/wallpaperflare.com_wallpaper.jpg");
     background-size: cover;
     color: white;
     flex-basis: 50%;
